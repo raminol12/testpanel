@@ -27,7 +27,7 @@ A web-based management panel for Marzban VPN servers, built with PHP and MySQL.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/marzban-panel.git
+git clone https://github.com/raminol12/testpanel/marzban-panel.git
 cd marzban-panel
 ```
 
